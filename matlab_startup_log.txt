@@ -1,0 +1,11 @@
+Native test command attempted:
+matlab -batch "cd('C:/nvidia notes/book-to-portfolio/2026-09-21-matlab-foundations'); run_checks"
+
+Initial attempts: startup file access denied, followed by preferences-path error.
+With MATLAB_PREFDIR set to a project-local directory:
+MathWorks Licensing Error 9
+Username 'CodexSandboxOffline' is not authorized to use this license.
+Error Code: -9.2
+Exit status: 1
+
+No license settings changed or bypassed. run_checks.m did not execute.

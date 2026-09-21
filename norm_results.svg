@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="780" viewBox="0 0 1080 780">
+<rect width="1080" height="780" fill="#f4f7fc"/>
+<text x="65" y="80" fill="#142b50" font-family="Arial" font-size="42" font-weight="bold">Same matrix. Different scale.</text>
+<text x="65" y="126" fill="#435570" font-family="Arial" font-size="24">Exercise 6: four matrix norms, one scaling rule</text>
+<rect x="65" y="161" width="950" height="100" rx="18" fill="#142b50"/>
+<text x="95" y="220" fill="white" font-family="monospace" font-size="30">norm(-3*A) / norm(A) = 3</text>
+<g font-family="Arial" font-size="25" fill="#142b50">
+<text x="65" y="318">Frobenius</text><rect x="245" y="291" width="630" height="36" rx="8" fill="#3688ef"/><text x="900" y="318">3.0</text>
+<text x="65" y="380">1-norm</text><rect x="245" y="353" width="630" height="36" rx="8" fill="#16a399"/><text x="900" y="380">3.0</text>
+<text x="65" y="442">2-norm</text><rect x="245" y="415" width="630" height="36" rx="8" fill="#8d66de"/><text x="900" y="442">3.0</text>
+<text x="65" y="504">Infinity</text><rect x="245" y="477" width="630" height="36" rx="8" fill="#ec9662"/><text x="900" y="504">3.0</text>
+</g>
+<text x="65" y="555" font-family="Arial" font-size="21" fill="#435570">Seeded 4 x 4 test matrix. Ratios rounded to one decimal.</text>
+<text x="65" y="590" font-family="Arial" font-size="21" fill="#435570">Python equivalents: PASS. MATLAB run: blocked by license.</text>
+<text x="65" y="642" font-family="Arial" font-size="19" fill="#435570">Original solutions to Andalibi &amp; Cherkauer, Advanced MATLAB</text>
+<text x="65" y="669" font-family="Arial" font-size="19" fill="#435570">for Engineers (2026), Chapter 1, pp. 32-33. Not an industrial trial.</text>
+<text x="65" y="714" font-family="Arial" font-size="18" fill="#142b50">github.com/sravanni369</text>
+<text x="65" y="746" font-family="Arial" font-size="18" fill="#142b50">linkedin.com/in/lakshmi-sravani-p-212899272</text>
+</svg>

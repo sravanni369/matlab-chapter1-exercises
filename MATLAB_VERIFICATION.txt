@@ -1,0 +1,15 @@
+MATLAB Online R2026a Update 5, 26.1.0.3346908
+Observed Command Window output on 2026-09-21 (transcribed; original diary remains in MATLAB Drive).
+Temperature 17.9: Heating ON
+Temperature 18.0: Heating OFF, Temperature is OK
+Temperature 20.0: Heating OFF, Temperature is OK
+Temperature 22.0: Heating OFF, Temperature is OK
+Temperature 22.1: Cooling ON
+Incompatible dimensions. (expected rejection tests, twice)
+Matrix demo: [19 22; 43 50]
+Norm demo, multiplier -3:
+Frobenius original 3.8528 scaled 11.558 ratio 3
+1-norm original 4.8406 scaled 14.522 ratio 3
+2-norm original 2.7986 scaled 8.3958 ratio 3
+Infinity original 3.738 scaled 11.214 ratio 3
+PASS: all seven exercise groups and edge-case checks.
