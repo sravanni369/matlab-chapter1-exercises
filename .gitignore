@@ -2,3 +2,4 @@
 .matlab-prefs/
 __pycache__/
 *.asv
+matlab_startup_log.txt
